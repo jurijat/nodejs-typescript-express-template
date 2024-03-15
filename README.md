@@ -1,6 +1,7 @@
-# Fast bootstrap template
+# Starter for NodeJS + TypeScript + Express
 
-What is the goal? Bootstrapping without headache. A simple NodeJS skeleton that is extendable easily.
+What is the goal? Bootstrapping without headache. A simple NodeJS skeleton.
+`nodemon` is used for development.
 
 > [!IMPORTANT]
 > Works with NodeJS >= 14
@@ -22,11 +23,6 @@ npm run dev
 // for normal startup
 npm run start
 ```
-
-## Included
-
-This is a simple repo for bootstrapping a NodeJS + TypeScript + Express server.
-`nodemon` is used for developing.
 
 ## Structure
 
